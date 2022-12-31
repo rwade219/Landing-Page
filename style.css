@@ -35,3 +35,8 @@ a, a:link, a:visited {
 .intro {
     width: 400px;
 }
+
+button {
+    color: white;
+    background-color: #3882F6;
+}
