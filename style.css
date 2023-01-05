@@ -18,7 +18,14 @@ img {
     
 }
 
+.left {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
 .right {
+    font-size: 18px;
+    color:#E5E7EB;
     display: flex;
     gap: 20px;
 }
@@ -40,6 +47,16 @@ a, a:link, a:visited {
 .intro {
     width: 400px;
 }
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
 
 button {
     color: white;
@@ -53,7 +70,7 @@ button {
     color: #1F2937;
     font-size: 36px;
     font-weight: bolder;
-    padding: 0px 200px;
+    padding: 30px;
     display:flex;
     justify-content: center;
 }
