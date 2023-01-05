@@ -78,11 +78,15 @@ button {
  .container {
     padding: 0px 200px;
     display: flex;
-    align-self: flex-end;
-    gap: 30px;
+    justify-content: center;
+    align-content: center ;
+    gap: 40px;
  }
 
  .text {
     display:flex;
     align-items: flex-end;
+    max-width: 150px;
  }
+
+ 
