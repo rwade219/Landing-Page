@@ -49,21 +49,17 @@ button {
     padding: 2px 10px;
 }
 
-.info {
+.title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bolder;
     padding: 0px 200px;
     display:flex;
     justify-content: center;
-    align-content: center;
-    gap: 40px;
-    flex-wrap: wrap;
 }
 
-.info-title {
-    font-size: x-large;
-    display: flex;
-    
-}
  .container {
+    padding: 0px 200px;
     display: flex;
     align-self: flex-end;
     gap: 30px;
