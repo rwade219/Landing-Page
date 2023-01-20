@@ -90,6 +90,7 @@ button {
  }
 
  .quotes {
+    text-align: center;
     background-color: #E5E7EB;
     padding: 100px 200px;
  }
@@ -118,5 +119,4 @@ button {
  #outline {
     border: 2px solid #f9faf8;
     border-radius: 5px;
-    padding: 2px 10px;
  }
